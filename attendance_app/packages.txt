@@ -1,0 +1,4 @@
+cmake
+build-essential
+libsndfile1
+libgl1-mesa-glx

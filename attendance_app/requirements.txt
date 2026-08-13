@@ -1,0 +1,19 @@
+streamlit>=1.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Face Recognition
+scikit-learn>=1.0.0
+dlib-bin>=19.24.0
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+# Database & Auth
+supabase>=2.3.0
+bcrypt>=4.0.0
+
+# Other utilities
+segno>=1.5.0
+pillow>=10.0.0
+librosa>=0.10.0
+resemblyzer>=0.1.4
